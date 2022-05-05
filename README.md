@@ -80,7 +80,7 @@ Keep-Alive: timeout=5
 ```
 
 ### /app/flip/ (GET)
-
+/app/flip/(GET)
 #### Request cURL
 
 ```
